@@ -22,10 +22,10 @@ html {
         display: inline-block;
 }
 
-.dropdown-content {
+.dropdown-content  {
         display: none;
         position: absolute;
-        background-color: #1e1e1f;
+        background-color: #000000;
         min-width: 160px;
         border-radius: 8px;
         overflow: auto;
@@ -41,7 +41,7 @@ html {
 }
 
 .dropdown a:hover {
-        background-color: darkgray;
+        background-color: rgba(169, 169, 169, 0.5);
 }
 
 .show {
