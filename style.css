@@ -57,3 +57,11 @@ body {
         background-color: #0d6efd;
         color: white;
 }
+
+#list-active {
+        background-color: #5c636a;
+}
+
+#list2:hover {
+        background-color: #5c636a;
+}
